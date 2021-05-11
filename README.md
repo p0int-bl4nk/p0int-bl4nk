@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @p0int-bl4nk
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on C/C++ projects
+- 💞️ I’m looking to collaborate on C/C++/Java projects
 - 📫 How to reach me Email: skv860254262@gmail.com
 
 <!---
