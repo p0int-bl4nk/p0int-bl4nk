@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @p0int-bl4nk
-- 🌱 I’m currently learning TypeScript
+- 👋 Hi, I’m Sachin!
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on C/C++/Java/JavaScript projects
 - 📫 How to reach me Email: skv860254262@gmail.com
 
